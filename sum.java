@@ -11,6 +11,10 @@ public class sum {
         return (a + b + c + d);
     }
 
+    public static int addfivenumber(int a, int b, int c, int d, int e) {
+        return (a + b + c + d + e);
+    }
+
     public static void main(String[] args) {
         System.out.println("My name is Ashish");
         System.out.println("Ashish Kumar");
