@@ -1,5 +1,6 @@
 public class sum {
     public static void main(String[] args) {
         System.out.println("My name is Ashish");
+        System.out.println("Kumar");
     }
 }
